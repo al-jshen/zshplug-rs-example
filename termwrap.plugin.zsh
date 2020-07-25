@@ -1,6 +1,6 @@
 wrap() {
     # pass in $2 to the Rust program and receive its output in "output"
-    output=$(/home/js/programs/termwrap/target/debug/termwrap $2)
+    output=$(/home/js/programs/termwrap/target/release/termwrap $2)
     # potentially do more stuff with it here. 
     # echo the output
     echo $output
