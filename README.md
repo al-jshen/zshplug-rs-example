@@ -1,6 +1,6 @@
 # zshplug-rs-example
 
-Basic zsh plugin example where some a Rust program listens to and processes commands from zsh.
+Basic zsh plugin example where a Rust program listens to and processes commands from zsh.
 
 
 ## Instructions
